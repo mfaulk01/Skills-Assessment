@@ -15,7 +15,7 @@ My Javascript knowledge is not as high as my HTML and CSS skills are, so I opted
 * Input all of the text and added the specified font and colors.
 * Inserted the HERO image into the .wrapper using CSS
 * Inserted the COLLAGE images using HTML
-* Used margin and padding to lind all of the elemnents up as closely as possible 
+* Used margin and padding to line all of the elemnents up as closely as possible 
 
 
 Conclusion
